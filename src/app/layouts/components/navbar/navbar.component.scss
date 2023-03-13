@@ -1,0 +1,47 @@
+.bg-img{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.logo{
+    border-radius: 50%;
+    width: 75px;
+}
+
+.carousel-inner {
+    margin-top: 10px;
+}
+
+.carousel-inner img {
+    border-radius: 5px;
+}
+
+.card1{
+    border-radius: 10px;
+    box-shadow: 0 0 10px red;
+    background-color: rgb(143, 5, 5);
+}
+
+.card2{
+    border-radius: 10px;
+    box-shadow: 0 0 10px green;
+    background-color: rgb(2, 79, 2);
+}
+
+.logo2{
+    border-radius: 50%;
+    width: 50px;
+}
+
+.logo3{
+    border-radius: 50%;
+    width: 60px;
+}
+
+.logo4{
+    border-radius: 50%;
+    width: 80px;
+}
